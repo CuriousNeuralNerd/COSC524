@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Model files and large data files
+results_BERT/
+results_DistilBERT/
+results_XLM-RoBERTa/
+
+# Environment files
+*.env
+*.venv
